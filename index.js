@@ -14,4 +14,5 @@ console.log()
 /**
  * git add .
  * git commit -m "hello"
+ * git push
  */
